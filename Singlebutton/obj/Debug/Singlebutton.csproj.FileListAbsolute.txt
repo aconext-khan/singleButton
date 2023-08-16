@@ -1,0 +1,17 @@
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\Singlebutton.dll
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\Singlebutton.pdb
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.dll
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.Guide.dll
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.UF.dll
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.Utilities.dll
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpenUI.dll
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.xml
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.Guide.xml
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.UF.xml
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpen.Utilities.xml
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\bin\Debug\NXOpenUI.xml
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\obj\Debug\Singlebutton.csproj.AssemblyReference.cache
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\obj\Debug\Singlebutton.csproj.CoreCompileInputs.cache
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\obj\Debug\Singlebutton.csproj.CopyComplete
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\obj\Debug\Singlebutton.dll
+C:\Users\khan.mohammad\Documents\Repos\SingleButton\Singlebutton\obj\Debug\Singlebutton.pdb
